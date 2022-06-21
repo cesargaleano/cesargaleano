@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Cesar Augusto Galeano Torres</h1>
 <h3 align="center">I am a FullStack Developer from Colombia, with professional training in Electronic Engineering. With a proactive attitude and ability to propose alternative Web development solutions adjusted to the needs of the current market, generating added value for customers. With capacity for teamwork.</h3>
