@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Cesar Augusto Galeano Torres</h1>
-<h3 align="center">Soy Desarrollador FullStack de Colombia, con formacion profesional en Ingenieria Electronica. Con actitud proactiva y capacidad para plantear alternativas de soluciones de desarrollo Web ajustadas a las necesidades del mercado actual, generando valor agregado a los clientes. Con capacidad para trabajo en equipo.</h3>
+<h3 align="center">I am a FullStack Developer from Colombia, with professional training in Electronic Engineering. With a proactive attitude and ability to propose alternative Web development solutions adjusted to the needs of the current market, generating added value for customers. With capacity for teamwork.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesargaleano&label=Profile%20views&color=0e75b6&style=flat" alt="cesargaleano" /> </p>
 
